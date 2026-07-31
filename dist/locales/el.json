@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "title": "Κaterina Sarantopoulou | Full Stack Developer"
+  },
+  "nav": {
+    "home": "Αρχική",
+    "about": "Σχετικά",
+    "experience": "Εμπειρία",
+    "skills": "Δεξιότητες",
+    "projects": "Έργα",
+    "contact": "Επικοινωνία",
+    "languageLabel": "Αλλαγή γλώσσας"
+  },
+  "hero": {
+    "eyebrow": "Full Stack Developer",
+    "headline": "Μεταφέρω παλιές εφαρμογές Access σε σύγχρονες one-page Razor και Blazor εφαρμογές.",
+    "description": "Δημιουργώ αξιόπιστες εφαρμογές για επιχειρήσεις με καθαρή αρχιτεκτονική, προσεγμένες διεπαφές και έμφαση στη χρηστικότητα.",
+    "primaryCta": "Προβολή Έργων",
+    "secondaryCta": "Λήψη CV",
+    "tertiaryCta": "Επικοινωνία"
+  },
+  "about": {
+    "title": "Σχετικά",
+    "intro": "Είμαι Full Stack Developer με έμφαση στην ανάπτυξη συντηρήσιμων και φιλικών προς τον χρήστη εφαρμογών για πραγματικές επιχειρηματικές ανάγκες.",
+    "body": "Η δουλειά μου καλύπτει frontend διεπαφές, backend υπηρεσίες, integrations API και λειτουργίες που βασίζονται σε βάσεις δεδομένων. Αξιολογώ πολύ τον καθαρό κώδικα, τη σωστή σκέψη προϊόντος και την ομαλή συνεργασία για την παράδοση ποιοτικών έργων.",
+    "highlights": [
+      "Επιχειρηματικές web εφαρμογές",
+      "Ανταποκρινόμενες εμπειρίες χρήστη",
+      "Καθαρή backend αρχιτεκτονική"
+    ]
+  },
+  "experience": {
+    "title": "Εμπειρία",
+    "items": [
+      {
+        "company": "Επαγγελματικά Έργα",
+        "position": "Full Stack Developer",
+        "duration": "2022 — Παρόν",
+        "responsibilities": [
+          "Ανάπτυξη εσωτερικών web εφαρμογών",
+          "Υλοποίηση νέων λειτουργιών",
+          "Διόρθωση bugs παραγωγής",
+          "Σχεδίαση responsive διεπαφών",
+          "Ανάπτυξη REST APIs",
+          "Σύνταξη SQL ερωτημάτων",
+          "Εργασία με Dapper",
+          "Χρήση Razor Pages",
+          "Συνεργασία με την ομάδα ανάπτυξης",
+          "Χρήση Git για version control"
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Δεξιότητες",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "database": "Βάσεις δεδομένων",
+      "cms": "CMS",
+      "cloud": "Cloud",
+      "tools": "Εργαλεία"
+    },
+    "frontend": ["HTML5", "CSS3", "JavaScript (ES6+)", "jQuery", "Bootstrap", "Tailwind CSS"],
+    "backend": ["C#", "ASP.NET Core", "Razor Pages", "REST APIs"],
+    "database": ["SQL Server", "MySQL", "PostgreSQL"],
+    "cms": ["WordPress", "Elementor", "PHP (Basic)"],
+    "cloud": ["AWS Certified Cloud Practitioner"],
+    "tools": ["Git", "GitHub", "Visual Studio", "VS Code", "Postman", "Linux"]
+  },
+  "projects": {
+    "title": "Τεχνική εστίαση",
+    "intro": "Είμαι άνετη δουλεύοντας τόσο σε C# όσο και στο frontend, και μου αρέσει να χτίζω εφαρμογές για επιχειρήσεις με σταθερή αρχιτεκτονική και polished interfaces.",
+    "cardTitle": "Με τι δουλεύω",
+    "cardTitleTwo": "Τι φέρνω",
+    "body": "Μου αρέσει να μετατρέπω απαιτήσεις σε αξιόπιστα features, είτε αυτό αφορά UI development, backend λογική, πρόσβαση σε δεδομένα ή συνεργασία με το προϊόν.",
+    "github": "Δες το GitHub μου"
+  },
+  "contact": {
+    "title": "Επικοινωνία",
+    "description": "Ανοιχτή σε ευκαιρίες με ομάδες προϊόντων, agencies και εταιρείες που χτίζουν μοντέρνες web εφαρμογές.",
+    "email": "Email",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "footer": {
+    "copyright": "© 2026 Katerina Sarantopoulou"
+  }
+}

@@ -22,7 +22,7 @@ async function loadTranslations() {
   state.lang = savedLang || browserLang;
 
   try {
-    const response = await fetch(`../locales/${state.lang}.json`);
+    const response = await fetch(`./locales/${state.lang}.json`);
     if (!response.ok) {
       throw new Error('Unable to load translations');
     }

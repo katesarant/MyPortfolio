@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "title": "Katerina Sarantopoulou | Full Stack Developer"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact",
+    "languageLabel": "Switch language"
+  },
+  "hero": {
+    "eyebrow": "Full Stack Developer",
+    "headline": "Migrating legacy Access applications into modern one-page Razor and Blazor apps.",
+    "description": "I create reliable business web applications with thoughtful interfaces, clean architecture, and a strong focus on usability.",
+    "primaryCta": "View Projects",
+    "secondaryCta": "Download CV",
+    "tertiaryCta": "Contact Me"
+  },
+  "about": {
+    "title": "About",
+    "intro": "I am a Full Stack Developer focused on building maintainable, user-friendly web applications that solve real business needs.",
+    "body": "My work spans frontend interfaces, backend services, API integrations, and database-driven features. I value readable code, careful product thinking, and collaborative delivery that keeps projects moving without sacrificing quality.",
+    "highlights": [
+      "Business web applications",
+      "Responsive product experiences",
+      "Clean backend architecture"
+    ]
+  },
+  "experience": {
+    "title": "Experience",
+    "items": [
+      {
+        "company": "Professional Projects",
+        "position": "Full Stack Developer",
+        "duration": "2022 — Present",
+        "responsibilities": [
+          "Developed internal web applications",
+          "Implemented new features",
+          "Fixed production bugs",
+          "Designed responsive interfaces",
+          "Built REST APIs",
+          "Wrote SQL queries",
+          "Worked with Dapper",
+          "Used Razor Pages",
+          "Collaborated with a development team",
+          "Used Git for version control"
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "database": "Database",
+      "cms": "CMS",
+      "cloud": "Cloud",
+      "tools": "Tools"
+    },
+    "frontend": ["HTML5", "CSS3", "JavaScript (ES6+)", "jQuery", "Bootstrap", "Tailwind CSS"],
+    "backend": ["C#", "ASP.NET Core", "Razor Pages", "REST APIs"],
+    "database": ["SQL Server", "MySQL", "PostgreSQL"],
+    "cms": ["WordPress", "Elementor", "PHP (Basic)"],
+    "cloud": ["AWS Certified Cloud Practitioner"],
+    "tools": ["Git", "GitHub", "Visual Studio", "VS Code", "Postman", "Linux"]
+  },
+  "projects": {
+    "title": "Technical focus",
+    "intro": "I’m comfortable working across C# and the front end, and I enjoy building business-oriented applications with solid architecture and polished interfaces.",
+    "cardTitle": "What I work with",
+    "cardTitleTwo": "What I bring",
+    "body": "I enjoy turning requirements into reliable features, whether that means UI development, backend logic, data access, or product-minded collaboration.",
+    "github": "Explore my GitHub"
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Open to opportunities with product teams, agencies, and companies building modern web applications.",
+    "email": "Email",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "footer": {
+    "copyright": "© 2026 Katerina Sarantopoulou"
+  }
+}
