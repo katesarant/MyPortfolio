@@ -1,0 +1,20 @@
+Katerina Sarantopoulou
+Full Stack Developer
+
+Skills:
+- ASP.NET Core, C#, JavaScript, SQL
+- Tailwind CSS, HTML, CSS, Bootstrap
+- REST APIs, Razor Pages, Dapper
+- Git, GitHub, SQL Server, MySQL, PostgreSQL
+
+Experience:
+- Developed internal web applications
+- Implemented new features and fixed production bugs
+- Designed responsive interfaces
+- Built REST APIs and wrote SQL queries
+- Collaborated with development teams and used Git for version control
+
+Contact:
+- GitHub: https://github.com/kate-sarant
+- LinkedIn: https://www.linkedin.com/in/kate-sarant
+- Email: kate_sarant@yahoo.gr
