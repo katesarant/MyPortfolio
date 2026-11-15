@@ -13,39 +13,39 @@
   },
   "hero": {
     "eyebrow": "Full Stack Developer",
-    "headline": "Μεταφέρω παλιές εφαρμογές Access σε σύγχρονες one-page Razor και Blazor εφαρμογές.",
-    "description": "Δημιουργώ αξιόπιστες εφαρμογές για επιχειρήσεις με καθαρή αρχιτεκτονική, προσεγμένες διεπαφές και έμφαση στη χρηστικότητα.",
+    "headline": "Αναπτύσσω σύγχρονες web εφαρμογές για επιχειρήσεις με C#, ASP.NET Core, Razor Pages και Blazor.",
+    "description": "Δημιουργώ και βελτιώνω web εφαρμογές, συνδυάζοντας frontend development, backend λογική, διασύνδεση με βάσεις δεδομένων και responsive περιβάλλοντα.",
     "primaryCta": "Προβολή Έργων",
     "secondaryCta": "Λήψη CV",
     "tertiaryCta": "Επικοινωνία"
   },
   "about": {
     "title": "Σχετικά",
-    "intro": "Είμαι Full Stack Developer με έμφαση στην ανάπτυξη συντηρήσιμων και φιλικών προς τον χρήστη εφαρμογών για πραγματικές επιχειρηματικές ανάγκες.",
-    "body": "Η δουλειά μου καλύπτει frontend διεπαφές, backend υπηρεσίες, integrations API και λειτουργίες που βασίζονται σε βάσεις δεδομένων. Αξιολογώ πολύ τον καθαρό κώδικα, τη σωστή σκέψη προϊόντος και την ομαλή συνεργασία για την παράδοση ποιοτικών έργων.",
+    "intro": "Είμαι Full Stack Developer με έμφαση στην ανάπτυξη και βελτίωση συντηρήσιμων, εύχρηστων web εφαρμογών που καλύπτουν πραγματικές επιχειρηματικές ανάγκες.",
+    "body": "Η δουλειά μου καλύπτει frontend διεπαφές, backend υπηρεσίες, διασυνδέσεις API και λειτουργίες που βασίζονται σε βάσεις δεδομένων. Δίνω έμφαση στον καθαρό κώδικα, στις πρακτικές λύσεις, στο responsive design και στη συνεργασία.",
     "highlights": [
       "Επιχειρηματικές web εφαρμογές",
-      "Ανταποκρινόμενες εμπειρίες χρήστη",
-      "Καθαρή backend αρχιτεκτονική"
+      "Responsive UI development",
+      "Backend και διασύνδεση δεδομένων"
     ]
   },
   "experience": {
     "title": "Εμπειρία",
     "items": [
       {
-        "company": "Επαγγελματικά Έργα",
+        "company": "Επαγγελματική Εμπειρία",
         "position": "Full Stack Developer",
-        "duration": "2022 — Παρόν",
+        "duration": "Τρέχουσα θέση",
         "responsibilities": [
-          "Ανάπτυξη εσωτερικών web εφαρμογών",
-          "Υλοποίηση νέων λειτουργιών",
-          "Διόρθωση bugs παραγωγής",
-          "Σχεδίαση responsive διεπαφών",
-          "Ανάπτυξη REST APIs",
-          "Σύνταξη SQL ερωτημάτων",
-          "Εργασία με Dapper",
-          "Χρήση Razor Pages",
-          "Συνεργασία με την ομάδα ανάπτυξης",
+          "Ανάπτυξη και συντήρηση επιχειρηματικών web εφαρμογών με τεχνολογίες .NET",
+          "Υλοποίηση interfaces με Razor Pages, Blazor και JavaScript",
+          "Προσθήκη λειτουργιών και βελτίωση υπαρχόντων workflows",
+          "Δημιουργία responsive layouts με Bootstrap, Flexbox και CSS Grid",
+          "Ανάπτυξη και διασύνδεση REST APIs",
+          "Σύνταξη SQL queries και εργασία με SQL Server",
+          "Χρήση Dapper για πρόσβαση στα δεδομένα",
+          "Εργασία με components DevExpress και DevExtreme",
+          "Συνεργασία με developers και business stakeholders",
           "Χρήση Git για version control"
         ]
       }
@@ -61,19 +61,55 @@
       "cloud": "Cloud",
       "tools": "Εργαλεία"
     },
-    "frontend": ["HTML5", "CSS3", "JavaScript (ES6+)", "jQuery", "Bootstrap", "Tailwind CSS"],
-    "backend": ["C#", "ASP.NET Core", "Razor Pages", "REST APIs"],
-    "database": ["SQL Server", "MySQL", "PostgreSQL"],
-    "cms": ["WordPress", "Elementor", "PHP (Basic)"],
-    "cloud": ["AWS Certified Cloud Practitioner"],
-    "tools": ["Git", "GitHub", "Visual Studio", "VS Code", "Postman", "Linux"]
+    "frontend": [
+      "HTML5",
+      "CSS3",
+      "JavaScript (ES6+)",
+      "jQuery",
+      "Bootstrap",
+      "Flexbox",
+      "CSS Grid",
+      "Tailwind CSS"
+    ],
+    "backend": [
+      "C#",
+      ".NET",
+      "ASP.NET Core",
+      "MVC",
+      "Razor Pages",
+      "Blazor",
+      "REST APIs",
+      "DevExpress",
+      "DevExtreme"
+    ],
+    "database": [
+      "SQL Server",
+      "T-SQL",
+      "Dapper"
+    ],
+    "cms": [
+      "WordPress",
+      "Elementor",
+      "PHP (Basic)"
+    ],
+    "cloud": [
+      "AWS Certified Cloud Practitioner"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "Visual Studio",
+      "VS Code",
+      "Postman",
+      "Linux"
+    ]
   },
   "projects": {
-    "title": "Τεχνική εστίαση",
-    "intro": "Είμαι άνετη δουλεύοντας τόσο σε C# όσο και στο frontend, και μου αρέσει να χτίζω εφαρμογές για επιχειρήσεις με σταθερή αρχιτεκτονική και polished interfaces.",
+    "title": "Επιλεγμένη τεχνική εμπειρία",
+    "intro": "Εργάζομαι τόσο με C# όσο και με frontend τεχνολογίες, αναπτύσσοντας επιχειρηματικές εφαρμογές με ASP.NET Core, Razor Pages και Blazor, responsive layouts και λειτουργίες που βασίζονται σε δεδομένα.",
     "cardTitle": "Με τι δουλεύω",
     "cardTitleTwo": "Τι φέρνω",
-    "body": "Μου αρέσει να μετατρέπω απαιτήσεις σε αξιόπιστα features, είτε αυτό αφορά UI development, backend λογική, πρόσβαση σε δεδομένα ή συνεργασία με το προϊόν.",
+    "body": "Μου αρέσει να μετατρέπω επιχειρηματικές απαιτήσεις σε αξιόπιστες web λειτουργίες, συνδυάζοντας UI development, backend λογική, διασύνδεση API, πρόσβαση σε δεδομένα και συνεργασία με τους τελικούς χρήστες.",
     "github": "Δες το GitHub μου"
   },
   "contact": {
