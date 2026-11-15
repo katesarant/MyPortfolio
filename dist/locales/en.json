@@ -13,39 +13,39 @@
   },
   "hero": {
     "eyebrow": "Full Stack Developer",
-    "headline": "Migrating legacy Access applications into modern one-page Razor and Blazor apps.",
-    "description": "I create reliable business web applications with thoughtful interfaces, clean architecture, and a strong focus on usability.",
+    "headline": "Building responsive business web applications with C#, ASP.NET Core, Razor Pages, and Blazor.",
+    "description": "I build and improve business web applications, combining frontend development, backend logic, database integration, and responsive user interfaces.",
     "primaryCta": "View Projects",
     "secondaryCta": "Download CV",
     "tertiaryCta": "Contact Me"
   },
   "about": {
     "title": "About",
-    "intro": "I am a Full Stack Developer focused on building maintainable, user-friendly web applications that solve real business needs.",
-    "body": "My work spans frontend interfaces, backend services, API integrations, and database-driven features. I value readable code, careful product thinking, and collaborative delivery that keeps projects moving without sacrificing quality.",
+    "intro": "I am a Full Stack Developer focused on building and improving maintainable, user-friendly web applications that support real business needs.",
+    "body": "I work across frontend interfaces, backend services, API integrations, and database-driven features. My focus is on readable code, practical solutions, responsive design, and collaborative delivery.",
     "highlights": [
       "Business web applications",
-      "Responsive product experiences",
-      "Clean backend architecture"
+      "Responsive UI development",
+      "Backend and database integration"
     ]
   },
   "experience": {
     "title": "Experience",
     "items": [
       {
-        "company": "Professional Projects",
+        "company": "Professional Experience",
         "position": "Full Stack Developer",
-        "duration": "2022 — Present",
+        "duration": "Current role",
         "responsibilities": [
-          "Developed internal web applications",
-          "Implemented new features",
-          "Fixed production bugs",
-          "Designed responsive interfaces",
-          "Built REST APIs",
-          "Wrote SQL queries",
-          "Worked with Dapper",
-          "Used Razor Pages",
-          "Collaborated with a development team",
+          "Developed and maintained business web applications using .NET technologies",
+          "Built interfaces with Razor Pages, Blazor, and JavaScript",
+          "Implemented features and improved existing workflows",
+          "Created responsive layouts using Bootstrap, Flexbox, and CSS Grid",
+          "Developed and integrated REST APIs",
+          "Wrote SQL queries and worked with SQL Server",
+          "Used Dapper for data access",
+          "Worked with DevExpress and DevExtreme components",
+          "Collaborated with developers and business stakeholders",
           "Used Git for version control"
         ]
       }
@@ -61,19 +61,55 @@
       "cloud": "Cloud",
       "tools": "Tools"
     },
-    "frontend": ["HTML5", "CSS3", "JavaScript (ES6+)", "jQuery", "Bootstrap", "Tailwind CSS"],
-    "backend": ["C#", "ASP.NET Core", "Razor Pages", "REST APIs"],
-    "database": ["SQL Server", "MySQL", "PostgreSQL"],
-    "cms": ["WordPress", "Elementor", "PHP (Basic)"],
-    "cloud": ["AWS Certified Cloud Practitioner"],
-    "tools": ["Git", "GitHub", "Visual Studio", "VS Code", "Postman", "Linux"]
+    "frontend": [
+      "HTML5",
+      "CSS3",
+      "JavaScript (ES6+)",
+      "jQuery",
+      "Bootstrap",
+      "Flexbox",
+      "CSS Grid",
+      "Tailwind CSS"
+    ],
+    "backend": [
+      "C#",
+      ".NET",
+      "ASP.NET Core",
+      "MVC",
+      "Razor Pages",
+      "Blazor",
+      "REST APIs",
+      "DevExpress",
+      "DevExtreme"
+    ],
+    "database": [
+      "SQL Server",
+      "T-SQL",
+      "Dapper"
+    ],
+    "cms": [
+      "WordPress",
+      "Elementor",
+      "PHP (Basic)"
+    ],
+    "cloud": [
+      "AWS Certified Cloud Practitioner"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "Visual Studio",
+      "VS Code",
+      "Postman",
+      "Linux"
+    ]
   },
   "projects": {
-    "title": "Technical focus",
-    "intro": "I’m comfortable working across C# and the front end, and I enjoy building business-oriented applications with solid architecture and polished interfaces.",
+    "title": "Selected technical work",
+    "intro": "I work across C# and frontend development, building business applications with ASP.NET Core, Razor Pages, and Blazor, supported by responsive layouts and database-driven features.",
     "cardTitle": "What I work with",
     "cardTitleTwo": "What I bring",
-    "body": "I enjoy turning requirements into reliable features, whether that means UI development, backend logic, data access, or product-minded collaboration.",
+    "body": "I enjoy turning business requirements into reliable web features, working across UI development, backend logic, API integration, database access, and collaboration with end users.",
     "github": "Explore my GitHub"
   },
   "contact": {
