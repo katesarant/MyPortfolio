@@ -67,9 +67,9 @@
       "JavaScript (ES6+)",
       "jQuery",
       "Bootstrap",
+      "Tailwind CSS",
       "Flexbox",
-      "CSS Grid",
-      "Tailwind CSS"
+      "CSS Grid"
     ],
     "backend": [
       "C#",
